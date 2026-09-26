@@ -65,7 +65,7 @@
 
 `Page Object Model` • `Data Driven Testing` • `API Testing` • `Regression Testing`  • `Smoke Testing`• `Playwright MCP`
 `Functional Testing`  `CI/CD` • `Agile/Scrum` • `Jira` • `Git`• `Smoke Testing` • `GenAI` • `GitHub Actions` • `Jenkins`
-`Sanity Testing` • `SQL` • `IntelliJ` • `Eclipse`  `BDD`• `VS Code` • `SDLC` • `STLC` • `GitLab`• `Azure az-900 certified` • `Cucumber`
+`Sanity Testing` • `SQL` • `IntelliJ` • `Eclipse`  `BDD`• `VS Code` • `SDLC` • `STLC` • `GitLab`• `Azure az-900 certified` • `Cucumber`• 
 `User Acceptance Testing`• `Technical Panelist`
 
 ---
