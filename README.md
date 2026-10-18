@@ -3,7 +3,7 @@
 ### 🚀 SDET | QA Automation Engineer | Test Automation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vikash%20Dubey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDET%20%7C%20QA%20Automation%20Engineer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=header&text=Vikash%20Dubey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDET%20%7C%20QA%20Automation%20Engineer&descAlignY=55&descSize=20" />
 </p>
 
 ---
