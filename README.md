@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 🔹 **6+ years of experience** in Software Testing and Test Automation  
-🔹 Experienced in **UI, API and End-to-End Automation** 
+🔹 Experienced in **UI, API and End-to-End Automation**  
 🔹 Working with **Playwright using JavaScript / TypeScript with MCP and AI Agents with CI/CD , Jenkins and GitHub Actions** 
 🔹 Strong experience with **Selenium WebDriver and Java**   
 🔹 Experienced in developing automation frameworks and Secripts from scratch by analsying Businesss requirements. 
