@@ -20,10 +20,10 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -31,21 +31,18 @@
 </p>
 
 ### 🌐 UI Automation
-
 <p>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 </p>
 
 ### 🧪 Testing Frameworks
-
 <p>
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
 </p>
 
 ### 🔌 API Automation
-
 <p>
 <img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -53,7 +50,6 @@
 </p>
 
 ### ⚙️ Build & CI/CD
-
 <p>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -61,12 +57,6 @@
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Practices
-
-`Page Object Model` • `Data Driven Testing` • `API Testing` • `Regression Testing`  • `Smoke Testing`• `Playwright MCP`
-`Functional Testing`  `CI/CD` • `Agile/Scrum` • `Jira` • `Git`• `Smoke Testing` • `GenAI` • `GitHub Actions` • `Jenkins`
-`Sanity Testing` • `SQL` • `IntelliJ` • `Eclipse`  `BDD`• `VS Code` • `SDLC` • `STLC` • `GitLab`• `Azure az-900 certified` • `Cucumber`• 
-`User Acceptance Testing`• `Technical Panelist`
 
 ---
 
