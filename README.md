@@ -11,12 +11,12 @@
 ## 👨‍💻 About Me
 
 🔹 **6+ years of experience** in Software Testing and Test Automation  
-🔹 Experienced in **UI, API and End-to-End Automation**  
-🔹 Strong experience with **Selenium WebDriver and Java**  
-🔹 Working with **Playwright using JavaScript / TypeScript**  
-🔹 Experienced in developing automation frameworks from scratch  
+🔹 Experienced in **UI, API and End-to-End Automation** 
+🔹 Working with **Playwright using JavaScript / TypeScript with MCP and AI Agents with CI/CD , Jenkins and GitHub Actions** 
+🔹 Strong experience with **Selenium WebDriver and Java**   
+🔹 Experienced in developing automation frameworks and Secripts from scratch by analsying Businesss requirements. 
 🔹 Experience with **CI/CD, Jenkins and GitHub Actions**  
-🔹 Passionate about building scalable, reusable and maintainable automation frameworks  
+🔹 Passionate about Designing and building scalable, reusable and maintainable automation frameworks from Scratch  
 
 ---
 
@@ -72,6 +72,21 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 Playwright Automation Framework
+
+**TypeScript | JavaScript | Playwright | Node.js**
+
+- UI automation using Playwright
+- Page Object Model implementation
+- Role-based and user-facing locators
+- Playwright fixtures and reusable utilities
+- API automation and request interception
+- Screenshots, videos and Trace Viewer
+- Retry and parallel test execution
+- CI/CD integration and MCP AI agents
+  
+---
+
 ### 🔹 Selenium Java Automation Framework
 
 **Java | Selenium | TestNG | POM | Maven | Jenkins**
@@ -86,24 +101,9 @@
 
 ---
 
-### 🔹 Playwright Automation Framework
-
-**TypeScript | JavaScript | Playwright | Node.js**
-
-- UI automation using Playwright
-- Page Object Model implementation
-- Role-based and user-facing locators
-- Playwright fixtures and reusable utilities
-- API automation and request interception
-- Screenshots, videos and Trace Viewer
-- Retry and parallel test execution
-- CI/CD integration
-
----
-
 ### 🔹 API Automation Framework
 
-**Java | REST Assured | TestNG | Postman | Swagger**
+**Java | REST Assured | TestNG | Postman | Swagger **
 
 - REST API automation and validation
 - Request and response validation
