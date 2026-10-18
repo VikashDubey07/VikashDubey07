@@ -74,7 +74,7 @@
 
 ### 🔹 Playwright Automation Framework
 
-**TypeScript | JavaScript | Playwright | Node.js**
+  **TypeScript | JavaScript | Playwright | Node.js**
 
 - UI automation using Playwright
 - Page Object Model implementation
@@ -89,7 +89,7 @@
 
 ### 🔹 Selenium Java Automation Framework
 
-**Java | Selenium | TestNG | POM | Maven | Jenkins**
+  **Java | Selenium | TestNG | POM | Maven | Jenkins**
 
 - Selenium WebDriver automation framework using Java
 - Page Object Model based framework architecture
@@ -103,7 +103,7 @@
 
 ### 🔹 API Automation Framework
 
-**Java | REST Assured | TestNG | Postman | Swagger **
+ **Java | REST Assured | TestNG | Postman | Swagger **
 
 - REST API automation and validation
 - Request and response validation
