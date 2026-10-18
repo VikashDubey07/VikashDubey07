@@ -20,41 +20,55 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p>
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+<tr>
+<td width="200"><b>💻 Programming Languages</b></td>
+<td>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+</td>
+</tr>
 
-### 🌐 UI Automation
-<p>
+<tr>
+<td><b>🌐 UI Automation</b></td>
+<td>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-</p>
+</td>
+</tr>
 
-### 🧪 Testing Frameworks
-<p>
+<tr>
+<td><b>🧪 Testing Frameworks</b></td>
+<td>
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-</p>
+</td>
+</tr>
 
-### 🔌 API Automation
-<p>
-<img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge"/>
+<tr>
+<td><b>🔌 API Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/REST_Assured-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+</td>
+</tr>
 
-### ⚙️ Build & CI/CD
-<p>
+<tr>
+<td><b>⚙️ Build & CI/CD</b></td>
+<td>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</td>
+</tr>
+</table>
+
 
 ---
 
