@@ -14,7 +14,7 @@
 🔹 Experienced in **UI, API and End-to-End Automation**  
 🔹 Working with **Playwright using JavaScript & TypeScript with MCP and AI Agents with CI/CD , Jenkins and GitHub Actions**                                        
 🔹 Strong experience with **Selenium WebDriver and Java**   
-🔹 Experienced in developing automation frameworks and Secripts from scratch by analsying Businesss requirements. 
+🔹 Experienced in developing automation frameworks and Secripts from scratch by analsying requirements. 
 🔹 Experience with **CI/CD, Jenkins and GitHub Actions**  
 🔹 Passionate about Designing and building scalable, reusable and maintainable automation frameworks from Scratch  
 
