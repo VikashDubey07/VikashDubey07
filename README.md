@@ -120,23 +120,23 @@
 
 ```text
                  ┌──────────────────────┐
-                 │ Test Scripts │
+                 │     Test Scripts     │
                  └──────────┬───────────┘
                             │
                  ┌──────────▼───────────┐
-                 │ Page Objects │
+                 │     Page Objects     │
                  └──────────┬───────────┘
                             │
                  ┌──────────▼───────────┐
-                 │ Reusable Utilities │
+                 │  Reusable Utilities  │
                  └──────────┬───────────┘
                             │
               ┌─────────────▼─────────────┐
-              │ Selenium / Playwright │
+              │   Selenium / Playwright   │
               └─────────────┬─────────────┘
                             │
                  ┌──────────▼───────────┐
-                 │ Web Application │
+                 │   Web Application    │    
                  └──────────────────────┘
 
                        CI/CD Pipeline
