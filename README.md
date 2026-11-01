@@ -138,9 +138,20 @@
                  ┌──────────▼───────────┐
                  │   Web Application    │    
                  └──────────────────────┘
-
-                       CI/CD Pipeline
-
-              GitHub → Jenkins → Test Execution
-                                ↓
-                              Reports
+                            │
+                 ┌──────────▼───────────┐
+                 │   CI/CD Pipeline     │    
+                 └──────────────────────┘
+                            │
+                 ┌──────────▼───────────┐
+                 │     GitHub           |
+                 |        ↓             |
+                 |     Jenkins          |
+                 |       ↓              |
+                 |     Test Execution   │    
+                 └──────────────────────┘
+                            |
+                 ┌──────────▼─────────────────────┐
+                 │ Reporting                      |
+                 |(Allure/chain Test/HTML Report) │    
+                 └────────────────────────────────┘
